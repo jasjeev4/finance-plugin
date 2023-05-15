@@ -9,12 +9,12 @@
     "url": "https://finance.logarithmic.science/openapi.json",
     "has_user_authentication": false
   },
-  // "auth": {
-  //   "type": "oauth2",
-  //   "authorizationUrl": "https://finance.logarithmic.science/oauth/authorize",
-  //   "tokenUrl": "https://finance.logarithmic.science/oauth/token",
-  //   "scopes": ""
-  // },  
+  "auth": {
+    "type": "oauth2",
+    "authorizationUrl": "https://finance.logarithmic.science/oauth/authorize",
+    "tokenUrl": "https://finance.logarithmic.science/oauth/token",
+    "scopes": ""
+  },  
   "logo_url": "https://finance.logarithmic.science/logo.png",
   "contact_email": "stey@vercel.com",
   "legal_info_url": "https://finance.logarithmic.science/legal"

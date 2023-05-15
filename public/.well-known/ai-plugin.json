@@ -16,7 +16,7 @@
         "authorization_url": "https://finance.logarithmic.science/auth/oauth_exchange",
         "authorization_content_type": "application/json",
         "verification_tokens": {
-            "openai": "Replace_this_string_with_the_verification_token_generated_in_the_ChatGPT_UI"
+            "openai": "690fab7d54ae4589a8819347aaf23181"
         }
   },
   "logo_url": "https://finance.logarithmic.science/logo.png",

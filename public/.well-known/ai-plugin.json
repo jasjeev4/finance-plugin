@@ -13,7 +13,7 @@
     "type": "oauth",
         "client_url": "https://finance.logarithmic.science/auth/oauth",
         "scope": "",
-        "authorization_url": "https://finance.logarithmic.science/auth/authorize",
+        "authorization_url": "https://finance.logarithmic.science/auth/oauth_exchange",
         "authorization_content_type": "application/json",
         "verification_tokens": {
             "openai": "abdda6b2ea134db5a07efdfa9d2b6acd"

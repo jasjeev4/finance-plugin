@@ -1,6 +1,6 @@
 # Finance Plugin
 
-A finance-focused AI plugin starter built with Next.js and the OpenAI plugin ecosystem. This project is designed to expose financial data and insights through a clean API that can be plugged into AI assistants, dashboards, or internal tools.
+A finance-focused AI plugin starter built with Next.js and the OpenAI plugin ecosystem. This project is designed to expose financial data and insights through a clean API that can be plugged into AI experiences.
 
 ## Overview
 
@@ -13,6 +13,12 @@ This repository provides a foundation for building a finance plugin with:
 - Responsive front-end for data display
 
 It is intended as a starter project for integrating financial data workflows into AI-powered experiences.
+
+## Video Overview
+
+Watch the project walkthrough and introduction to the finance plugin here:
+
+[Finance Plugin demo on YouTube](https://youtu.be/Zw2dhgc8pFA)
 
 ## Features
 
@@ -123,4 +129,4 @@ This project is licensed under the terms of the repository license.
 
 ## Notes
 
-This starter is built to help you quickly scaffold a finance plugin with modern web tooling and AI plugin conventions. You can extend the included API and UI to match your specific data sources and product requirements.
+This starter is built to help you quickly scaffold a finance plugin with modern web tooling and AI plugin conventions. You can extend the included API and UI to match your specific data sources and user workflows.
